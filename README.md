@@ -5,7 +5,8 @@
 - ⚡ Fun fact: I love games
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/joaofelipeflorencio)
 
 <br />
 
@@ -22,6 +23,3 @@
 
 <br />
 <br />
-
-
-[linkedin]: https://linkedin.com/in/joaofelipeflorencio
