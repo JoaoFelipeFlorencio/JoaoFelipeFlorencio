@@ -1,8 +1,8 @@
 ### Hi there, I'm João Felipe 👋
 
-- 🌱 I’m currently learning JavaScript, .NET and C#
+- 🌱 I’m currently learning JavaScript, React and Node
 - 👯 I’m looking to collaborate with others
-- ⚡ Fun fact: I love games
+- ⚡ Fun fact: I love RPG games
 
 ### Connect with me:
 
