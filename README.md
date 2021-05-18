@@ -1,6 +1,6 @@
 ### Hi there, I'm João Felipe 👋
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently studying Java, SpringBoot and Azure
 - 👯 I’m looking to collaborate with others
 - ⚡ Fun fact: I love RPG games
 
